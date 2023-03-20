@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 Technologies: ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=ffffff)
+
+<a href="mailto:danberadi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/danielberger18/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.youtube.com/channel/UCMGSgppCK-hp4zmeqhp7CIw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> <a href="https://www.danny-berger.dev"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> 
 <!--
 **Estevemartin/estevemartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
