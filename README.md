@@ -8,6 +8,8 @@ Back-End: <img src="https://img.shields.io/badge/Express.Js-000000?style=for-the
 
 Testing: <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=ffffff">
  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=react&logoColor=ffffff"> <img src="https://img.shields.io/badge/puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=ffffff">
+ 
+Infrastructure: <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=ffffff"> <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=ffffff">
 <!--<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> -->
 
