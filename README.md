@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Technologies: ![TypeScript](https://img.shields.io/badge/TS-3-3178C6?style=for-the-badge&logo=TypeScript)
+Technologies: ![TypeScript](https://img.shields.io/badge/TS-3-3178C6?style=for-the-badge&logo=TypeScript&logoColor=ffffff)
 <!--
 **Estevemartin/estevemartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
