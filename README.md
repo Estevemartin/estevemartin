@@ -7,7 +7,7 @@ Front-End: <img src="https://img.shields.io/badge/React-20232A?style=for-the-bad
 Back-End: <img src="https://img.shields.io/badge/Express.Js-000000?style=for-the-badge&logo=express&logoColor=61DAFB"> <img src="https://img.shields.io/badge/MongoDb-47A248?style=for-the-badge&logo=mongodb&logoColor=ffffff">
 
 Testing: <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=ffffff">
- <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=react&logoColor=ffffff">
+ <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=react&logoColor=ffffff"> <img src="https://img.shields.io/badge/puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=ffffff">
 <!--<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> -->
 
