@@ -51,7 +51,7 @@
 
 
 ![Esteve's GitHub stats](https://github-readme-stats.vercel.app/api?username=Estevemartin&show_icons=true&theme=dark)
-
+<!--
 # :bulb: Some personal projects I have been working on:
 
 
@@ -59,6 +59,7 @@
 - [Get Your Moments](https://github.com/Estevemartin?tab=repositories&q=getyourmoment&type=&language=&sort=)
 - [Privatch](https://github.com/Estevemartin?tab=repositories&q=privatch&type=&language=&sort=)
 - [TuAsset](https://github.com/Estevemartin/tuasset)
+-->
 <!--
 **Estevemartin/estevemartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
