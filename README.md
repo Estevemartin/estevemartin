@@ -1,4 +1,4 @@
-### :information_desk_person: What I know about
+## :information_desk_person: What I know about
 
 <!-- 
 |Full-Stack|Front-End|Back-End|Testing|Infrastructure & CI/CD|
@@ -44,12 +44,10 @@
  <img src="https://img.shields.io/badge/puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=ffffff"> <img src="https://img.shields.io/badge/nest-E0234E?style=for-the-badge&logo=nestjs&logoColor=ffffff"> <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=000000&fontColor=000000"> <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&?labelColor=ffffff"> <img src="https://img.shields.io/badge/GitHub actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=ffffff"> <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=ffffff"> <img src="https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=ffffff"> <img src="https://img.shields.io/badge/digitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=ffffff">
  
   -->
-  <br></br>
-  ### :computer: What have I been doing lately
+  ## :computer: What have I been doing lately
 ![Esteve's GitHub stats](https://github-readme-stats.vercel.app/api?username=Estevemartin&show_icons=true&theme=dark)
 
-<br></br>
-### :bulb: Some personal projects I have been working on:
+## :bulb: Some personal projects I have been working on:
 
 - BlockNum
 - Get Your Moments
