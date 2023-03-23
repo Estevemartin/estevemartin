@@ -1,4 +1,5 @@
-## :information_desk_person: What I know about
+# :information_desk_person: What I know about
+
 
 <!-- 
 |Full-Stack|Front-End|Back-End|Testing|Infrastructure & CI/CD|
@@ -14,6 +15,8 @@
 |Testing|<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=react&logoColor=ffffff"> <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=ffffff"> <img src="https://img.shields.io/badge/puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=ffffff"> <img src="https://img.shields.io/badge/nest-E0234E?style=for-the-badge&logo=nestjs&logoColor=ffffff">|
 |Infrastructure & CI/CD|<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=000000&fontColor=000000"> <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&?labelColor=ffffff"> <img src="https://img.shields.io/badge/GitHub actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=ffffff"> <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=ffffff"> <img src="https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=ffffff"> <img src="https://img.shields.io/badge/digitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=ffffff">|
 |Project Management|<img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=ffffff"> <img src="https://img.shields.io/badge/confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=ffffff"> <img src="https://img.shields.io/badge/atlassian-0052CC?style=for-the-badge&logo=atlassian&logoColor=ffffff"> <img src="https://img.shields.io/badge/clickup-7B68EE?style=for-the-badge&logo=clickup&logoColor=ffffff"> <img src="https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello&logoColor=ffffff">|
+
+
 <!-- 
 
 
@@ -44,10 +47,13 @@
  <img src="https://img.shields.io/badge/puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=ffffff"> <img src="https://img.shields.io/badge/nest-E0234E?style=for-the-badge&logo=nestjs&logoColor=ffffff"> <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=000000&fontColor=000000"> <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&?labelColor=ffffff"> <img src="https://img.shields.io/badge/GitHub actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=ffffff"> <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=ffffff"> <img src="https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=ffffff"> <img src="https://img.shields.io/badge/digitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=ffffff">
  
   -->
-  ## :computer: What have I been doing lately
+# :computer: What have I been doing lately
+
+
 ![Esteve's GitHub stats](https://github-readme-stats.vercel.app/api?username=Estevemartin&show_icons=true&theme=dark)
 
-## :bulb: Some personal projects I have been working on:
+# :bulb: Some personal projects I have been working on:
+
 
 - BlockNum
 - Get Your Moments
