@@ -56,9 +56,9 @@
 
 
 - [BlockNum](https://github.com/Estevemartin?tab=repositories&q=block&type=&language=&sort=)
-- Get Your Moments
-- Privatch
-- TuAsset
+- [Get Your Moments](https://github.com/Estevemartin?tab=repositories&q=getyourmoment&type=&language=&sort=)
+- [Privatch](https://github.com/Estevemartin?tab=repositories&q=privatch&type=&language=&sort=)
+- [TuAsset](https://github.com/Estevemartin/tuasset)
 <!--
 **Estevemartin/estevemartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
